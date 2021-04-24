@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: -5003994480173509940}
   m_Layer: 0
   m_Name: Tree
-  m_TagString: Tree
+  m_TagString: EnemyTree
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
